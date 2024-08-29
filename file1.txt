@@ -1,1 +1,2 @@
 Initial content for file 1
+Fetching and Viewing Log in the Main Repository
